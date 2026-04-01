@@ -85,6 +85,7 @@ HTTPS 在 HTTP 基础上加入了 TLS 加密，报文内容在传输过程中无
 
 ![请求头截图](req.png)
 
+
 ---
 
 ### B. 响应头（Response Headers）
